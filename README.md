@@ -6,6 +6,8 @@ This application supports the [Getting Started with Node on Heroku](https://devc
 
 It has been modified to work with my own application.
 
+App deployed to heroku.
+
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
