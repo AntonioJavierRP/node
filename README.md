@@ -6,7 +6,7 @@ This application supports the [Getting Started with Node on Heroku](https://devc
 
 It has been modified to work with my own application.
 
-App deployed to heroku.
+App deployed to heroku...again.
 
 ## Running Locally
 
